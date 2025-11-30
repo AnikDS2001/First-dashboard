@@ -1,5 +1,5 @@
 # First-dashboard
-Hey, I’m Sourav Saha Anik. An undergraduate student from Gopalganj Science and Technology University. Currently, I am learning data analysis, where I have found good opportunities. This is the first dashboard work I have officially uploaded as a portfolio. 
+Hey, I’m Sourav Saha Anik. An undergraduate student from Gopalganj Science and Technology University. Currently, I am learning data analysis, where I have found good opportunities. These are the first dashboard works I have uploaded as my portfolio. 
 
 # Data Analysis with Power BI & Tableau
 This is the visualizations, and screenshots where I analyzed a local business dataset using Power BI and the Global Store Dataset using Tableau.
