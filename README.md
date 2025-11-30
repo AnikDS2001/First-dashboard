@@ -6,5 +6,5 @@ These are the screenshot of my first data visualization dashboard on Power BI an
 ![Power BI 3 Screenshot](https://github.com/AnikDS2001/First-dashboard/blob/main/BI%203.png?raw=true)
 
 ![Tableau Dashboard 1](https://github.com/AnikDS2001/First-dashboard/blob/main/TL%201.png?raw=true)
-![Tableau Dashboard 2](https://github.com/AnikDS2001/First-dashboard/blob/main/TL%202.png?raw=true)
-
+![Tableau Dashboard 2](https://github.com/AnikDS2001/First-dashboard/blob/main/TL%203.png?raw=true)
+![Tableau Dasboard 3](https://github.com/AnikDS2001/First-dashboard/blob/main/TL%203.png?raw=true)
