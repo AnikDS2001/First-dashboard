@@ -5,7 +5,7 @@ Hey, I’m Sourav Saha Anik. An undergraduate student from Gopalganj Science and
 This is the visualizations, and screenshots where I analyzed a local business dataset using Power BI and the Global Store Dataset using Tableau.
 
 # Power BI Project
-This is data on local market sales, where I tried to show the sales performance of the 4 groups. The groups launched 3 campaigns, which worked successfully and increased sales. Also, the discount on the product helped to raise the sales. All 4 groups are managed to sell $200k+ each, and the use of the multi-model payment method was a huge success, which helped to increase the sales. 
+This data is on local market sales, where I tried to show the sales performance of the 4 groups. The groups launched 3 campaigns, which worked successfully and increased sales. Also, the discount on the product helped to raise the sales. All 4 groups are managed to sell $200k+ each, and the use of the multi-model payment method was a huge success, which helped to increase the sales. 
 ![Power BI 1 Screenshot](https://github.com/AnikDS2001/First-dashboard/blob/main/BI%201.png?raw=true)
 ![Power BI 2 Screenshot](https://github.com/AnikDS2001/First-dashboard/blob/main/BI%202.png?raw=true)
 ![Power BI 3 Screenshot](https://github.com/AnikDS2001/First-dashboard/blob/main/BI%203.png?raw=true)
