@@ -13,5 +13,5 @@ This data is on local market sales, where I tried to show the sales performance 
 # Tableau Project
 This is a global sales project, which shows the sales performance across the U.S.A. It shows the major cities like New York, which made a great sale. Some other states also did well. According to the graph, the sales have remained stable through the years. 
 ![Tableau Dashboard 1](https://github.com/AnikDS2001/First-dashboard/blob/main/TL%201.png?raw=true)
-![Tableau Dashboard 2](https://github.com/AnikDS2001/First-dashboard/blob/main/TL%203.png?raw=true)
+![Tableau Dashboard 2](https://github.com/AnikDS2001/First-dashboard/blob/main/TL%202.png?raw=true)
 ![Tableau Dasboard 3](https://github.com/AnikDS2001/First-dashboard/blob/main/TL%203.png?raw=true)
